@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently learning Rust
+
+I'm keen on mountain biking! 🚵‍♂️
 
 
 ## 🌐 Socials:
